@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(){
+    printf("sivan");
+    return 0;
+    
+}
